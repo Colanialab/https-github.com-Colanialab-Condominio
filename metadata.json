@@ -1,0 +1,8 @@
+{
+  "name": "Remix: CondoManage Pro 1.4",
+  "description": "A comprehensive condominium management application for small buildings (under 8 units), featuring expense tracking, millesimal division, document storage, financial reporting, and an AI-powered legal wiki.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
